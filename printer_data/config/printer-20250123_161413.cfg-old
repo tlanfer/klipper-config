@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 # This file contains pin mappings for the Anycubic i3 Mega with
 # Ultrabase from 2017. (This config may work on an Anycubic i3 Mega v1
 # prior to the Ultrabase if you comment out the definition of the
